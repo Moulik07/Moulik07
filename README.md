@@ -11,7 +11,7 @@
 
 - 📫 How to reach me moulikarora07@gmail.com
 
-- 📄 Know about my experiences https://drive.google.com/drive/u/6/folders/1XZuNhktgB3DTX9TytgFbZmT0nKTQtAX3
+- 📄 Know about my experiences https://drive.google.com/file/d/1Hw6O7qeaTFGqD76CfRLXqOCw7_XKvaXQ/view?usp=sharing
 
 - ⚡ Fun fact **Enthusiastic about exploring new tech, avid writer, and socially active**
 
@@ -35,6 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moulik07&" alt="Moulik07" /></p>
 
-<--
-<a href="https://www.maltego.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/maltego/maltego-icon.svg" alt="maltego" width="40" height="40"/> </a><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> 
+<!-- <a href="https://www.maltego.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/maltego/maltego-icon.svg" alt="maltego" width="40" height="40"/> </a><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> 
 </p><!-- Nessus --><a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tenable/tenable-icon.svg" alt="nessus" width="40" height="40"/> </a><a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="burpsuite" width="40" height="40"/> </a><a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zaproxy/zaproxy-icon.svg" alt="owaspzap" width="40" height="40"/> </a><a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> </a> -->
